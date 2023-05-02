@@ -18,7 +18,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 <a href="https://www.linkedin.com/in/dheerendra-kumar-0034aa170/">
   <img align="left" alt="Dheerendra's Linkdein" width="30px" src="images/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/devildhruv20/">
+<a href="https://www.instagram.com/itzmedheerendra/">
   <img align="left" alt="Dheerendra's Instagram" width="30px" src="images/instagram.png" />
 </a>
 <br>
